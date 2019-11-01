@@ -2,6 +2,9 @@
 * [Gaussion process spectral sampling](https://nbviewer.jupyter.org/github/DavidWalz/curious-goat/blob/master/topics/GP_spectral_sampling.ipynb)
 * [Performance metrics in multi-objective optimization](https://nbviewer.jupyter.org/github/DavidWalz/curious-goat/blob/master/topics/pareto_metrics.ipynb)
 
+## Games
+* [Karuba Junior](https://nbviewer.jupyter.org/github/DavidWalz/curious-goat/blob/master/games/karuba-junior.ipynb): Calculate the odds of winning this game
+
 ## A package a day, keeps the doctor away!
 * [xarray](https://nbviewer.jupyter.org/github/DavidWalz/curious-goat/blob/master/packages/xarray.ipynb): n-dimensional labeled arrays
 * [scipy.integrate 1](https://nbviewer.jupyter.org/github/DavidWalz/curious-goat/blob/master/packages/code/curious-goat/packages/scipy_ODE.ipynb): solving ODE's
