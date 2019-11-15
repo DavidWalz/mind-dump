@@ -1,6 +1,6 @@
 ## Topics
 * [Gaussion process spectral sampling](topics/GP_spectral_sampling.ipynb)
-* [Performance metrics in multi-objective optimization](topics/pareto_metrics.ipynb)
+* [Performance metrics in multi-objective optimization](topics/multiobjective_metrics.ipynb)
 * [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
 
 ## Games
