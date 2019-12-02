@@ -12,4 +12,4 @@
 * [scipy.integrate 2](packages/scipy_ODE_parameter_estimation.ipynb): estimating parameters in ODE's
 * [attrs](packages/attrs.ipynb): reducing class boilerplate code with attrs
 * [pymoo](packages/pymoo.ipynb): constrained multi-objective optimization
-* [GPyTorch](packages/pymoo.ipynb): basic Gaussian process regression
+* [GPyTorch](packages/gpytorch.ipynb): basic Gaussian processes example and hyperparameter sampling
