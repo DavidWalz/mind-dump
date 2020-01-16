@@ -2,6 +2,7 @@
 * [Gaussion process spectral sampling](topics/GP_spectral_sampling.ipynb)
 * [Performance metrics in multi-objective optimization](topics/multiobjective_metrics.ipynb)
 * [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
+* [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
 
 ## Games
 * [Karuba Junior](games/karuba-junior.ipynb): Calculate the odds of winning this game
