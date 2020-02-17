@@ -5,9 +5,6 @@
 * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
 * [Comparison of Bayesian optimization packages](packages/bayesopt.ipynb)
 
-## Games
-* [Karuba Junior](games/karuba-junior.ipynb): Calculate the odds of winning this game
-
 ## Packages
 * [xarray](packages/xarray.ipynb): n-dimensional labeled arrays
 * [scipy.integrate 1](packages/scipy_ODE.ipynb): solving ODE's
@@ -15,3 +12,4 @@
 * [attrs](packages/attrs.ipynb): reducing class boilerplate code with attrs
 * [pymoo](packages/pymoo.ipynb): constrained multi-objective optimization
 * [GPyTorch](packages/gpytorch.ipynb): basic Gaussian processes example and hyperparameter sampling
+* [dexpy](packages/dexpy.ipynb): Experimental designs (unmaintained)
