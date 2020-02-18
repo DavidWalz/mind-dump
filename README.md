@@ -13,3 +13,4 @@
 * [pymoo](packages/pymoo.ipynb): constrained multi-objective optimization
 * [GPyTorch](packages/gpytorch.ipynb): basic Gaussian processes example and hyperparameter sampling
 * [dexpy](packages/dexpy.ipynb): Experimental designs (unmaintained)
+* [JAX](packages/jax.ipynb): Auto-diff, Vectorization, JIT
