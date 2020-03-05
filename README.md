@@ -3,7 +3,8 @@
 * [Performance metrics in multi-objective optimization](topics/multiobjective_metrics.ipynb)
 * [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
 * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
-* [Comparison of Bayesian optimization packages](packages/bayesopt.ipynb)
+* [Bayesian optimization](topics/bayesopt.md)
+    * [Comparison of frameworks](topics/bayesopt_frameworks.ipynb)
 
 ## Packages
 * [xarray](packages/xarray.ipynb): n-dimensional labeled arrays
@@ -13,4 +14,4 @@
 * [pymoo](packages/pymoo.ipynb): constrained multi-objective optimization
 * [GPyTorch](packages/gpytorch.ipynb): basic Gaussian processes example and hyperparameter sampling
 * [dexpy](packages/dexpy.ipynb): Experimental designs (unmaintained)
-* [JAX](packages/jax.ipynb): Auto-diff, Vectorization, JIT
+* [JAX](packages/jax.ipynb): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
