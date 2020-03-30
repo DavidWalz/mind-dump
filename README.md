@@ -5,6 +5,7 @@
 * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
 * [Bayesian optimization](topics/bayesopt.md)
     * [Comparison of frameworks](topics/bayesopt_frameworks.ipynb)
+    * [Bayesian multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
 
 ## Packages
 * [xarray](packages/xarray.ipynb): n-dimensional labeled arrays
