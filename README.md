@@ -16,3 +16,5 @@
 * [GPyTorch](packages/gpytorch.ipynb): basic Gaussian processes example and hyperparameter sampling
 * [dexpy](packages/dexpy.ipynb): Experimental designs (unmaintained)
 * [JAX](packages/jax.ipynb): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* [Ax](packages/ax.ipynb): Adaptive experimentation platform for Bayesian and Bandit optimization
+
