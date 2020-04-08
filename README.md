@@ -4,7 +4,7 @@
 * [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
 * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
 * [Bayesian optimization](topics/bayesopt.md)
-    * [Comparison of frameworks](topics/bayesopt_frameworks.ipynb)
+    * [Comparison of frameworks](packages/bayesopt_frameworks.ipynb)
     * [Bayesian multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
 
 ## Packages
