@@ -6,6 +6,7 @@
 * [Bayesian optimization](topics/bayesopt.md)
     * [Comparison of frameworks](packages/bayesopt_frameworks.ipynb)
     * [Bayesian multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
+* [Evolutionary algorithms](topics/evolutionary_algorithms.ipynb)
 
 ## Packages
 * [xarray](packages/xarray.ipynb): n-dimensional labeled arrays
