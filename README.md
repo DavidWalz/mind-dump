@@ -1,7 +1,9 @@
 ## Topics
 * [Gaussion process spectral sampling](topics/GP_spectral_sampling.ipynb)
-* [Performance metrics in multi-objective optimization](topics/multiobjective_metrics.ipynb)
-* [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
+* Multiobjective optimization
+    * [Performance metrics in multi-objective optimization](topics/multiobjective_metrics.ipynb)
+    * [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
+    * [Representation of Pareto fronts](topics/multiobjective_pareto_representation.ipynb)
 * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
 * [Bayesian optimization](topics/bayesopt.md)
     * [Comparison of frameworks](packages/bayesopt_frameworks.ipynb)
