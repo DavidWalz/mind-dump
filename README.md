@@ -1,15 +1,18 @@
 ## Topics
-* [Gaussion process spectral sampling](topics/GP_spectral_sampling.ipynb)
 * Multiobjective optimization
     * [Performance metrics in multi-objective optimization](topics/multiobjective_metrics.ipynb)
     * [Scalarization methods in multi-objective optimization](topics/multiobjective_scalarization.ipynb)
     * [Representation of Pareto fronts](topics/multiobjective_pareto_representation.ipynb)
-* [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
+* Gaussian Processes
+    * [Kernels](topics/gp_kernel.ipynb)
+    * [Spectral sampling](topics/gp_spectral_sampling.ipynb)
 * [Bayesian optimization](topics/bayesopt.md)
     * [Surrogate models](topics/bayesopt_surrogates.ipynb)
     * [Comparison of frameworks](packages/bayesopt_frameworks.ipynb)
     * [Bayesian multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
-* [Evolutionary algorithms](topics/evolutionary_algorithms.ipynb)
+* Optimization algorithms
+    * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
+    * [Evolutionary algorithms](topics/evolutionary_algorithms.ipynb)
 
 ## Packages
 * [xarray](packages/xarray.ipynb): n-dimensional labeled arrays
