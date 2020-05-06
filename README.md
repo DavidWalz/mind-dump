@@ -6,6 +6,7 @@
     * [Representation of Pareto fronts](topics/multiobjective_pareto_representation.ipynb)
 * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
 * [Bayesian optimization](topics/bayesopt.md)
+    * [Surrogate models](topics/bayesopt_surrogates.ipynb)
     * [Comparison of frameworks](packages/bayesopt_frameworks.ipynb)
     * [Bayesian multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
 * [Evolutionary algorithms](topics/evolutionary_algorithms.ipynb)
