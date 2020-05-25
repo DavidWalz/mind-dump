@@ -10,7 +10,7 @@
     * [Surrogate models](topics/bayesopt_surrogates.ipynb)
     * [Acquisition functions](topics/bayesopt_acquisitions.ipynb)
     * [Comparison of frameworks](packages/bayesopt_frameworks.ipynb)
-    * [Bayesian multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
+    * [Multi-objective optimization with BoTorch](packages/botorch_multi.ipynb)
 * Optimization algorithms
     * [Optimizers in SciPy, Tensorflow and PyTorch](topics/optimizers.ipynb)
     * [Evolutionary algorithms](topics/evolutionary_algorithms.ipynb)
@@ -23,6 +23,10 @@
 * [pymoo](packages/pymoo.ipynb): constrained multi-objective optimization
 * [GPyTorch](packages/gpytorch.ipynb): basic Gaussian processes example and hyperparameter sampling
 * [dexpy](packages/dexpy.ipynb): Experimental designs (unmaintained)
+* [numba](packages/numba.ipynb) Jit and parallelization
 * [JAX](packages/jax.ipynb): Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+* [scikit-optimize](packages/skopt.ipynb) Bayesian optimization
+* [BoTorch](packages/botorch_multi.ipynb): Fast and flexible Bayesion optimization on PyTorch
 * [Ax](packages/ax.ipynb): Adaptive experimentation platform for Bayesian and Bandit optimization
-* [scikit-optimize](packages/skopt.py) Bayesian optimization
+
+
