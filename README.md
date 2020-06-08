@@ -28,5 +28,6 @@
 * [scikit-optimize](packages/skopt.ipynb) Bayesian optimization
 * [BoTorch](packages/botorch_multi.ipynb): Fast and flexible Bayesion optimization on PyTorch
 * [Ax](packages/ax.ipynb): Adaptive experimentation platform for Bayesian and Bandit optimization
+* [cma](packages/cma.ipynb): CMA-ES for optimizing difficult single-objective functions
 
 
