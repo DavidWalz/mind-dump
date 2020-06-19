@@ -29,5 +29,6 @@
 * [BoTorch](packages/botorch_multi.ipynb): Fast and flexible Bayesion optimization on PyTorch
 * [Ax](packages/ax.ipynb): Adaptive experimentation platform for Bayesian and Bandit optimization
 * [cma](packages/cma.ipynb): CMA-ES for optimizing difficult single-objective functions
+* [pyRFF](packages/pyrff.ipynb): Random Fourier features for GPs, also known as spectral samples
 
 
